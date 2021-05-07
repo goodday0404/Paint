@@ -1,3 +1,4 @@
 # Paint
 
-![image](https://user-images.githubusercontent.com/28790865/117381251-a708a600-aea9-11eb-85ec-5290a9e67cf6.png)
+![image](https://user-images.githubusercontent.com/28790865/117381356-e20ad980-aea9-11eb-8076-2aff7e1bcb4c.png)
+
